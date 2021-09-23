@@ -1,0 +1,9 @@
+{
+  "name": "nx-after-yarn-workspaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ron Arts <ron.arts@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [ "packages/*" ]
+}
